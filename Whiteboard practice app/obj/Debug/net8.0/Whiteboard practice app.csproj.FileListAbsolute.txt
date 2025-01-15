@@ -1,0 +1,15 @@
+C:\Users\Kshhn\source\study\Whiteboard-Practice\Whiteboard practice app\bin\Debug\net8.0\Whiteboard practice app.exe
+C:\Users\Kshhn\source\study\Whiteboard-Practice\Whiteboard practice app\bin\Debug\net8.0\Whiteboard practice app.deps.json
+C:\Users\Kshhn\source\study\Whiteboard-Practice\Whiteboard practice app\bin\Debug\net8.0\Whiteboard practice app.runtimeconfig.json
+C:\Users\Kshhn\source\study\Whiteboard-Practice\Whiteboard practice app\bin\Debug\net8.0\Whiteboard practice app.dll
+C:\Users\Kshhn\source\study\Whiteboard-Practice\Whiteboard practice app\bin\Debug\net8.0\Whiteboard practice app.pdb
+C:\Users\Kshhn\source\study\Whiteboard-Practice\Whiteboard practice app\obj\Debug\net8.0\Whiteboard practice app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kshhn\source\study\Whiteboard-Practice\Whiteboard practice app\obj\Debug\net8.0\Whiteboard practice app.AssemblyInfoInputs.cache
+C:\Users\Kshhn\source\study\Whiteboard-Practice\Whiteboard practice app\obj\Debug\net8.0\Whiteboard practice app.AssemblyInfo.cs
+C:\Users\Kshhn\source\study\Whiteboard-Practice\Whiteboard practice app\obj\Debug\net8.0\Whiteboard practice app.csproj.CoreCompileInputs.cache
+C:\Users\Kshhn\source\study\Whiteboard-Practice\Whiteboard practice app\obj\Debug\net8.0\Whiteboard practice app.sourcelink.json
+C:\Users\Kshhn\source\study\Whiteboard-Practice\Whiteboard practice app\obj\Debug\net8.0\Whiteboard practice app.dll
+C:\Users\Kshhn\source\study\Whiteboard-Practice\Whiteboard practice app\obj\Debug\net8.0\refint\Whiteboard practice app.dll
+C:\Users\Kshhn\source\study\Whiteboard-Practice\Whiteboard practice app\obj\Debug\net8.0\Whiteboard practice app.pdb
+C:\Users\Kshhn\source\study\Whiteboard-Practice\Whiteboard practice app\obj\Debug\net8.0\Whiteboard practice app.genruntimeconfig.cache
+C:\Users\Kshhn\source\study\Whiteboard-Practice\Whiteboard practice app\obj\Debug\net8.0\ref\Whiteboard practice app.dll

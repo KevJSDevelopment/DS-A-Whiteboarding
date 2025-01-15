@@ -11,9 +11,9 @@ Brute force:
 
 */
 
-public class Solution 
+public class GroupAnagrams 
 {
-    public List<List<string>> GroupAnagrams(string[] strs) 
+    public List<List<string>> Group(string[] strs) 
     {
         // Use Dictionary to group anagrams using sorted string as key
         var groups = new Dictionary<string, List<string>>();
