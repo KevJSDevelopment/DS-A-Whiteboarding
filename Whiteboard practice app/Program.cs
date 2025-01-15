@@ -6,3 +6,7 @@ maxConsecutiveOnesIII.LongestOnes([0,0,0,1], 4);
 
 RunningSumOf1dArray runningSum = new();
 runningSum.RunningSum([1,2,3,4]);
+
+
+KRadiusAverages averages = new();
+averages.GetAverages([7,4,3,9,1,8,5,2,6], 3);
