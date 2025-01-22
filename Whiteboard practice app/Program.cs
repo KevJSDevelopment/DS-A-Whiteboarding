@@ -11,5 +11,8 @@
 // KRadiusAverages averages = new();
 // averages.GetAverages([7,4,3,9,1,8,5,2,6], 3);
 
-ReverseOnlyLetters reverseOnlyLetters = new();
-reverseOnlyLetters.ReverseLetters("dc-ba");
+// ReverseOnlyLetters reverseOnlyLetters = new();
+// reverseOnlyLetters.ReverseLetters("dc-ba");
+
+Players players = new Players();
+players.GetPlayersWithOneOrLessLoss([[1,3],[2,3],[3,6],[5,6],[5,7],[4,5],[4,8],[4,9],[10,4],[10,9]]);
