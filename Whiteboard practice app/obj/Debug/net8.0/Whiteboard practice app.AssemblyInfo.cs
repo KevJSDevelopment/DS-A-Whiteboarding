@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Whiteboard practice app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a985f9dbc55d7e783694748adf334e4217987dac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+523e76b63e0dfc7a256fd2e4b5f0d2ee408f1872")]
 [assembly: System.Reflection.AssemblyProductAttribute("Whiteboard practice app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Whiteboard practice app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
