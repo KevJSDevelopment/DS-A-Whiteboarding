@@ -17,5 +17,21 @@
 // Players players = new Players();
 // players.GetPlayersWithOneOrLessLoss([[1,3],[2,3],[3,6],[5,6],[5,7],[4,5],[4,8],[4,9],[10,4],[10,9]]);
 
-Balloons balloons = new();
-balloons.GetMaxNumber("nlaebolko");
+// Balloons balloons = new();
+// balloons.GetMaxNumber("nlaebolko");
+
+LinkedList linkedList = new();
+ListNode head = new ListNode();
+head.val = 3;
+ListNode two = new ListNode();
+two.val = 5;
+ListNode three = new ListNode();
+three.val = 3;
+ListNode four = new ListNode();
+four.val = 4;
+ListNode five = new ListNode();
+five.val = 5;
+
+head.next = two;
+
+linkedList.ReverseLinkedListII(head, 1, 2);
