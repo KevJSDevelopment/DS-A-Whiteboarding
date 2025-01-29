@@ -20,18 +20,21 @@
 // Balloons balloons = new();
 // balloons.GetMaxNumber("nlaebolko");
 
-LinkedList linkedList = new();
-ListNode head = new ListNode();
-head.val = 3;
-ListNode two = new ListNode();
-two.val = 5;
-ListNode three = new ListNode();
-three.val = 3;
-ListNode four = new ListNode();
-four.val = 4;
-ListNode five = new ListNode();
-five.val = 5;
+// LinkedList linkedList = new();
+// ListNode head = new ListNode();
+// head.val = 3;
+// ListNode two = new ListNode();
+// two.val = 5;
+// ListNode three = new ListNode();
+// three.val = 3;
+// ListNode four = new ListNode();
+// four.val = 4;
+// ListNode five = new ListNode();
+// five.val = 5;
 
-head.next = two;
+// head.next = two;
 
-linkedList.ReverseLinkedListII(head, 1, 2);
+// linkedList.ReverseLinkedListII(head, 1, 2);
+
+Parenthesis parenthesis = new();
+Console.WriteLine(parenthesis.CheckIfStringIsValidParenthesis("()[]").ToString());
