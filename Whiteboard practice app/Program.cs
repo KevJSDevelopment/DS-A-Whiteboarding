@@ -36,5 +36,9 @@
 
 // linkedList.ReverseLinkedListII(head, 1, 2);
 
-Parenthesis parenthesis = new();
-Console.WriteLine(parenthesis.CheckIfStringIsValidParenthesis("()[]").ToString());
+// Parenthesis parenthesis = new();
+// Console.WriteLine(parenthesis.CheckIfStringIsValidParenthesis("()[]").ToString());
+
+Path path = new();
+
+Console.WriteLine(path.SimplifyPath("/./home/./b"));
