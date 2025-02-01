@@ -24,8 +24,8 @@ public class MyStack
         return temp;
     }
 
-    public int Peek()
+    public ListNode Peek()
     {
-        return tail.val;
+        return tail;
     }
 }
