@@ -13,15 +13,15 @@ public class Parenthesis
                 switch(s[i])
                 {
                     case '}':
-                        if(listNodes.Peek() != '{') return false;
+                        if(listNodes.Peek().val != '{') return false;
                         else listNodes.Pop();
                         break;
                     case ']':
-                        if(listNodes.Peek() != '[') return false;
+                        if(listNodes.Peek().val != '[') return false;
                         else listNodes.Pop();
                         break;
                     case ')':
-                        if(listNodes.Peek() != '(') return false;
+                        if(listNodes.Peek().val != '(') return false;
                         else listNodes.Pop();
                         break;
                     default:
