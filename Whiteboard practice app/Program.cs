@@ -39,6 +39,12 @@
 // Parenthesis parenthesis = new();
 // Console.WriteLine(parenthesis.CheckIfStringIsValidParenthesis("()[]").ToString());
 
-Path path = new();
+// Path path = new();
 
-Console.WriteLine(path.SimplifyPath("/./home/./b"));
+// Console.WriteLine(path.SimplifyPath("/./home/./b"));
+
+MovingAverage obj = new MovingAverage(3);
+double param_1 = obj.Next(1);
+double param_2 = obj.Next(10);
+double param_3 = obj.Next(3);
+double param_4 = obj.Next(5);
