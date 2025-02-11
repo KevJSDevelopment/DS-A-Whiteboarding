@@ -43,8 +43,16 @@
 
 // Console.WriteLine(path.SimplifyPath("/./home/./b"));
 
-MovingAverage obj = new MovingAverage(3);
-double param_1 = obj.Next(1);
-double param_2 = obj.Next(10);
-double param_3 = obj.Next(3);
-double param_4 = obj.Next(5);
+// MovingAverage obj = new MovingAverage(3);
+// double param_1 = obj.Next(1);
+// double param_2 = obj.Next(10);
+// double param_3 = obj.Next(3);
+// double param_4 = obj.Next(5);
+OnlineStock obj = new();
+int param_1 = obj.Next(100);
+int param_2 = obj.Next(80);
+int param_3 = obj.Next(60);
+int param_4 = obj.Next(70);
+int param_5 = obj.Next(60);
+int param_6 = obj.Next(75);
+int param_7 = obj.Next(80);
