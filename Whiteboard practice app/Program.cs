@@ -48,11 +48,25 @@
 // double param_2 = obj.Next(10);
 // double param_3 = obj.Next(3);
 // double param_4 = obj.Next(5);
-OnlineStock obj = new();
-int param_1 = obj.Next(100);
-int param_2 = obj.Next(80);
-int param_3 = obj.Next(60);
-int param_4 = obj.Next(70);
-int param_5 = obj.Next(60);
-int param_6 = obj.Next(75);
-int param_7 = obj.Next(80);
+// OnlineStock obj = new();
+// int param_1 = obj.Next(100);
+// int param_2 = obj.Next(80);
+// int param_3 = obj.Next(60);
+// int param_4 = obj.Next(70);
+// int param_5 = obj.Next(60);
+// int param_6 = obj.Next(75);
+// int param_7 = obj.Next(80);
+
+// Solution eval = new Solution();
+// eval.EvalRPN(["1","2","+","3","*","4","-"]);
+
+BTLevelOrderTraversal bt = new();
+TreeNode root = new TreeNode(1);
+root.left = new TreeNode(2);
+root.right = new TreeNode(3);
+root.left.left = new TreeNode(4);
+root.left.right = new TreeNode(5);
+root.right.left = new TreeNode(6);
+root.right.right = new TreeNode(7);
+
+bt.LevelOrder(root);
