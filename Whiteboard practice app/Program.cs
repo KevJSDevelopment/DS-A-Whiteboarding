@@ -60,13 +60,18 @@
 // Solution eval = new Solution();
 // eval.EvalRPN(["1","2","+","3","*","4","-"]);
 
-BTLevelOrderTraversal bt = new();
-TreeNode root = new TreeNode(1);
-root.left = new TreeNode(2);
-root.right = new TreeNode(3);
-root.left.left = new TreeNode(4);
-root.left.right = new TreeNode(5);
-root.right.left = new TreeNode(6);
-root.right.right = new TreeNode(7);
+// BTLevelOrderTraversal bt = new();
+// TreeNode root = new TreeNode(1);
+// root.left = new TreeNode(2);
+// root.right = new TreeNode(3);
+// root.left.left = new TreeNode(4);
+// root.left.right = new TreeNode(5);
+// root.right.left = new TreeNode(6);
+// root.right.right = new TreeNode(7);
 
-bt.LevelOrder(root);
+// bt.LevelOrder(root);
+
+
+BinarySearch binarySearch = new();
+
+binarySearch.SearchMatrix([[1,3,5,7],[10,11,16,20],[23,30,34,60]], 10);
